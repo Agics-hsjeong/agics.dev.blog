@@ -1,23 +1,3 @@
-# ![RealWorld Example App](logo.png)
-
-> ### Ditsmod codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
-
-
-This codebase was created to demonstrate a fully fledged fullstack application built with **Ditsmod** including CRUD operations, authentication, routing, pagination, and more.
-
-See also:
-
-- [Documentation in English](https://ditsmod.github.io/realworld/en/)
-- [Documentation in Ukrainian](https://ditsmod.github.io/realworld/)
-
-# Getting started
-
-This monorepository includes [Ditsmod](https://ditsmod.github.io/en/) applications seed.
-
-All packages are located in `packages/*` and are serviced by [lerna](https://github.com/lerna/lerna) and [yarn workspaces](https://classic.yarnpkg.com/lang/en/docs/workspaces/).
-
-From start you need:
-
 1. Clone the projects
 
 ```bash
